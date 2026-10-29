@@ -1,0 +1,20 @@
+{
+    "name": "cinetech",
+    "version": "1.0.0",
+    "description": "CineTech - avaliacao de filmes com Node.js, API OMDb e MySQL",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js",
+      "criar-tabela": "node criar-tabela.js"
+    },
+    "engines": {
+      "node": ">=18"
+    },
+    "dependencies": {
+      "dotenv": "^16.4.7",
+      "express": "^4.21.2",
+      "mysql2": "^3.11.5"
+    }
+  }
+   
+   

@@ -1,0 +1,6 @@
+.GITIGNORE:
+ 
+node modules/
+.env
+ 
+ 
